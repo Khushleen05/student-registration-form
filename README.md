@@ -1,3 +1,4 @@
+<img width="1550" height="749" alt="Screenshot 2025-08-01 220914" src="https://github.com/user-attachments/assets/ebcb21e5-8181-46fd-b65b-19e59cd50f6c" />
 # Student Registration Form
 
 ## Description
